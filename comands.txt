@@ -1,0 +1,2 @@
+npm install -g typescript // установка typescript глобально
+tsc 1_types.ts  // Скомпилировать из ts файла обычный js
